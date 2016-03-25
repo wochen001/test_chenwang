@@ -15,6 +15,7 @@
 		D60A66171CA50F5D00A521CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D60A66151CA50F5D00A521CA /* LaunchScreen.storyboard */; };
 		D60A66221CA50F5E00A521CA /* _23123Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = D60A66211CA50F5E00A521CA /* _23123Tests.m */; };
 		D60A662D1CA50F5E00A521CA /* _23123UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D60A662C1CA50F5E00A521CA /* _23123UITests.m */; };
+		D60A663B1CA5142200A521CA /* 2222222.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D60A663A1CA5142200A521CA /* 2222222.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D60A66281CA50F5E00A521CA /* 123123UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 123123UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D60A662C1CA50F5E00A521CA /* _23123UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _23123UITests.m; sourceTree = "<group>"; };
 		D60A662E1CA50F5E00A521CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D60A663A1CA5142200A521CA /* 2222222.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2222222.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				D60A660A1CA50F5D00A521CA /* AppDelegate.h */,
 				D60A660B1CA50F5D00A521CA /* AppDelegate.m */,
 				D60A660D1CA50F5D00A521CA /* ViewController.h */,
+				D60A663A1CA5142200A521CA /* 2222222.jpg */,
 				D60A660E1CA50F5D00A521CA /* ViewController.m */,
 				D60A66101CA50F5D00A521CA /* Main.storyboard */,
 				D60A66131CA50F5D00A521CA /* Assets.xcassets */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D60A663B1CA5142200A521CA /* 2222222.jpg in Resources */,
 				D60A66171CA50F5D00A521CA /* LaunchScreen.storyboard in Resources */,
 				D60A66141CA50F5D00A521CA /* Assets.xcassets in Resources */,
 				D60A66121CA50F5D00A521CA /* Main.storyboard in Resources */,
